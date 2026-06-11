@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dax Gandh
+# 👋 Hi, I'm Dax Gandhi
 
 👨‍💻 **B.Tech Student** | 💻 **Data Science & AI Enthusiast**  
 🤖 **Machine Learning** | 🎨 **AI Projects** | 🧠 **Problem Solver**
