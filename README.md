@@ -51,7 +51,15 @@ I enjoy solving coding problems on LeetCode and building projects that solve rea
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirayusolanki-png&show_icons=true&theme=dark)
+**Your GitHub Stats**
+- ⭐ Total Stars Earned: 
+- ⏱️ Total Commits (last year): 
+- 🔀 Total PRs: 
+- 📝 Total Issues: 
+- 📁 Contributed to (last year): 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 ---
 
