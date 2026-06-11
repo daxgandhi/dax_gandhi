@@ -58,8 +58,8 @@ I enjoy solving coding problems on LeetCode and building projects that solve rea
 - 📝 Total Issues: 
 - 📁 Contributed to (last year): 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daxgandhi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxgandhi&layout=compact&theme=dark)
 
 ---
 
